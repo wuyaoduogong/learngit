@@ -1,0 +1,3 @@
+My name is Jack Xi.
+This is my hello txt.
+I am trying "Multi person cooperation" using git.

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 <<<<<<< HEAD
@@ -15,3 +16,14 @@ Create a new branch is quick.
 Creating a new branch is quick and simple.
 Add another dev branch.
 For bug branch.
+=======
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+My likely boss still prefers SVN.
+My stupid boss still prefers SVN.
+Add another one line.
+Push dev to remote.
+New change.
+>>>>>>> 3d6c8536707805135a499b22ab44f723b25ff2ff
