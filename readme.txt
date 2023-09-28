@@ -14,4 +14,3 @@ A new line is added on 2018-1-3
 Create a new branch is quick.
 Creating a new branch is quick and simple.
 Add another dev branch.
-
